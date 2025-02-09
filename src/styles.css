@@ -93,3 +93,9 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
+.highlight {
+  background-color: #f1c40f;
+  box-shadow: 0 0 10px rgba(241, 196, 15, 0.7);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
